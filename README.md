@@ -60,9 +60,9 @@ Hello, my name is JxPhreak and I'm your typical ambitious wannabe-hacker!
 
 ## Contact me
 
-- [Twitter](https://twitter.com/JxPhreak)
-- [Keybase](https://keybase.io/jxphreak)
-- [Github (-_-) ](https://github.com/JxPhreak)
+- Twitter: https://twitter.com/JxPhreak
+- Keybase: https://keybase.io/jxphreak
+- Github (-_-): https://github.com/JxPhreak
 - Email: JxPhreak@protonmail.com
 
 [+] ====================== [ Fin ] ====================== [+]
