@@ -42,7 +42,7 @@ Hello, my name is JxPhreak and I'm your typical ambitious wannabe-hacker!
 
 [+] =================================================== [+]|         
 |
-| - Reach Top 50 on TryHackMe
+| - Reach Top 50 on TryHackMe (Globally)
 | - Learn more programming   
 |    - Python3
 |    - Javascript
